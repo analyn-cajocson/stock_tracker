@@ -20,6 +20,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 gem 'devise', '~> 4.7', '>= 4.7.2'
+gem 'iex-ruby-client', '~> 1.2'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
